@@ -1,0 +1,9 @@
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.frmTicTacToe.resources
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\leifeld\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
